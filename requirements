@@ -1,0 +1,18 @@
+1)Webpack
+        1.Webpack.config import/export
+        2.Babel transpiler 
+        3.Scss
+        4.EsLint
+        5.Modes - dev (Dev server, SourceMap,EsLint,
+                                Not Minified JS, css)
+                - prod (minified code)
+ 
+2)Git
+        -Production
+            1.0.0 && 2.0.0
+            ------
+        -Development
+            1.0.2 && 1.2.1
+            _____________+___     PR(pool request)TEST
+            \________________      |
+            
