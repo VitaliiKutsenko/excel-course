@@ -1,0 +1,25 @@
+{
+  "name": "excel-project",
+  "version": "1.0.0",
+  "description": "javascript excel application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjelappe89/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Vitalii,fjelappe89, <fjelappe89@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjelappe89/excel-course/issues"
+  },
+  "homepage": "https://github.com/fjelappe89/excel-course#readme",
+  "private": true
+}
