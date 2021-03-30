@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c871c3af-8b46-4d6c-9b1b-7c1d408d7421" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +53,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.linters.configure.manually.selectedeslint" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/.bin/sass.cmd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/.bin/eslint" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="F:\excel project\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="F:\excel_project\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
@@ -98,6 +99,7 @@
       <workItem from="1617085729280" duration="13473000" />
       <workItem from="1617105066023" duration="801000" />
       <workItem from="1617105894812" duration="407000" />
+      <workItem from="1617106336167" duration="1912000" />
     </task>
     <servers />
   </component>
@@ -117,9 +119,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="930" y="190" key="#ESLint" timestamp="1616672573215">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state x="903" y="182" key="#ESLint" timestamp="1617106973637">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="903" y="182" key="#ESLint/0.0.1600.860@0.0.1600.860" timestamp="1617106973637" />
     <state x="930" y="190" key="#ESLint/62.0.1538.900@62.0.1538.900" timestamp="1616672573215" />
     <state x="1100" y="287" key="#File_Watchers" timestamp="1616684152321">
       <screen x="62" y="0" width="1538" height="900" />
@@ -141,9 +144,10 @@
       <screen x="62" y="0" width="1538" height="900" />
     </state>
     <state x="884" y="221" width="662" height="679" key="EditFileWatcherDialog/62.0.1538.900@62.0.1538.900" timestamp="1616684149356" />
-    <state x="995" y="315" key="FileChooserDialogImpl" timestamp="1616684147167">
-      <screen x="62" y="0" width="1538" height="900" />
+    <state x="653" y="220" key="FileChooserDialogImpl" timestamp="1617106538704">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="653" y="220" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1617106538704" />
     <state x="995" y="315" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1616684147167" />
     <state x="602" y="98" key="SettingsEditor" timestamp="1616683283066">
       <screen x="62" y="0" width="1538" height="900" />
