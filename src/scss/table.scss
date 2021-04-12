@@ -17,6 +17,8 @@
 }
   .row-info{
   display: flex;
+
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-width: $info-cell-width;

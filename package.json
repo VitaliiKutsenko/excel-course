@@ -26,6 +26,14 @@
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.13.10",
+
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-proposal-class-static-block": "^7.13.11",
+    "@babel/preset-env": "^7.13.10",
+    "@babel/preset-stage-3": "^7.8.3",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-transform-class": "^0.3.0",
     "@babel/preset-env": "^7.13.10",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.2",
@@ -43,6 +51,7 @@
     "sass-loader": "^11.0.1",
     "webpack": "^5.26.3",
     "webpack-cli": "^4.5.0",
+    "webpack-dev-middleware": "^1.12.2",
     "webpack-dev-server": "^3.11.2",
     "webpack-devserver": "0.0.6"
   },

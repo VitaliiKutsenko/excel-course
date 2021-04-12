@@ -67,6 +67,12 @@
   padding: 8px 4px 0;
   display: flex;
   justify-content: space-between;
+
+  background: lightsalmon;
+}
+.excel__header .input {
+  margin-top: -3px;
+
   background: antiquewhite;
 }
 .excel__header .input {
@@ -75,6 +81,8 @@
   color: #000;
   border: 1px solid transparent;
   border-radius: 2px;
+  height: 25px;
+  width: 200px;
   height: 20px;
   font-size: 18px;
   line-height: 22px;
@@ -123,6 +131,7 @@
 }
 .excel__table .row-info {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   min-width: 40px;

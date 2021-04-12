@@ -10,15 +10,20 @@ const isDev = !isProd;
 const filename = (ext) => isDev ? `bundle.${ext}` : `bundle.[hash].${ext}`;
 
 const jsLoaders = () => {
+
+  const loaders = [
   const loader = [
     {
       loader: 'babel-loader',
       options: {
         presets: ['@babel/preset-env'],
+        // eslint-disable-next-line max-len
+        plugins: ['@babel/plugin-proposal-class-properties'],
       },
     },
   ];
   if (isDev) {
+    loaders.push('eslint-loader');
     loader.push('eslint-loader');
   }
 };
@@ -81,6 +86,14 @@ module.exports = {
       {
         test: /\.m?js$/,
         exclude: /node_modules/,
+        use: jsLoaders() || {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env'],
+            // eslint-disable-next-line max-len
+            plugins: ['@babel/plugin-proposal-class-properties'],
+          },
+        },
         use: jsLoaders(),
       },
     ],

@@ -7,6 +7,9 @@
     },
     "rules":{
         "semi": "off",
+
+        "require-jsdoc": "off",
+        "line-breaker": "off"
         "require-jsdoc": "off"
     },
     "extends":["eslint:recommended","google"]
