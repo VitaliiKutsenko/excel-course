@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
+
     <expand />
     <select>
+    <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15524d60-9a12-4f3e-b8e8-c40727ad5622" name="Default Changelist" comment="test webstorm ui for git">
-<<<<<<< HEAD
+
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-=======
->>>>>>> ae50ddbd1ec650e1316408b60a425d30d366f84b
+
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/index.css" afterDir="false" />
+
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c871c3af-8b46-4d6c-9b1b-7c1d408d7421" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +45,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pvWwfZMiv9iGfASVV8RqUsDVLo" />
   <component name="ProjectViewState">
@@ -36,12 +60,40 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/.bin/eslint" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="F:\excel_project\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\excel project\src\scss" />
+      <recent name="F:\excel project\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/excel project/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,11 +104,21 @@
       <option name="presentableId" value="Default" />
       <updated>1616064283892</updated>
       <workItem from="1616064284954" duration="1931000" />
-<<<<<<< HEAD
       <workItem from="1617109126822" duration="2221000" />
       <workItem from="1617111854676" duration="916000" />
-=======
->>>>>>> ae50ddbd1ec650e1316408b60a425d30d366f84b
+
+
+      <workItem from="1616064284954" duration="6519000" />
+      <workItem from="1616072623115" duration="9013000" />
+      <workItem from="1616142260755" duration="8562000" />
+      <workItem from="1616237400536" duration="2389000" />
+      <workItem from="1616334313275" duration="2068000" />
+      <workItem from="1616671231955" duration="8608000" />
+      <workItem from="1616681240423" duration="2641000" />
+      <workItem from="1617085729280" duration="13473000" />
+      <workItem from="1617105066023" duration="801000" />
+      <workItem from="1617105894812" duration="407000" />
+      <workItem from="1617106336167" duration="2729000" />
     </task>
     <servers />
   </component>
@@ -77,11 +139,55 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test webstorm ui for git" />
     <option name="LAST_COMMIT_MESSAGE" value="test webstorm ui for git" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="982" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616065714413">
+    <state x="903" y="182" key="#ESLint" timestamp="1617106973637">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="903" y="182" key="#ESLint/0.0.1600.860@0.0.1600.860" timestamp="1617106973637" />
+    <state x="930" y="190" key="#ESLint/62.0.1538.900@62.0.1538.900" timestamp="1616672573215" />
+    <state x="1100" y="287" key="#File_Watchers" timestamp="1616684152321">
       <screen x="62" y="0" width="1538" height="900" />
     </state>
+    <state x="1100" y="287" key="#File_Watchers/62.0.1538.900@62.0.1538.900" timestamp="1616684152321" />
+    <state x="960" y="273" key="#Notifications" timestamp="1616682711110">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="960" y="273" key="#Notifications/62.0.1538.900@62.0.1538.900" timestamp="1616682711110" />
+    <state x="982" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616671837670">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="982" y="255" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1538.900@62.0.1538.900" timestamp="1616671837670" />
+    <state x="995" y="265" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1616683544619">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="995" y="265" key="#com.intellij.ide.macro.MacrosDialog/62.0.1538.900@62.0.1538.900" timestamp="1616683544619" />
+    <state x="884" y="221" width="662" height="679" key="EditFileWatcherDialog" timestamp="1616684149356">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="884" y="221" width="662" height="679" key="EditFileWatcherDialog/62.0.1538.900@62.0.1538.900" timestamp="1616684149356" />
+    <state x="653" y="220" key="FileChooserDialogImpl" timestamp="1617106538704">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="653" y="220" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1617106538704" />
+    <state x="995" y="315" key="FileChooserDialogImpl/62.0.1538.900@62.0.1538.900" timestamp="1616684147167" />
+    <state x="602" y="98" key="SettingsEditor" timestamp="1616683283066">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="602" y="98" key="SettingsEditor/62.0.1538.900@62.0.1538.900" timestamp="1616683283066" />
+    <state x="487" y="205" key="run.anything.popup" timestamp="1616071971638">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="487" y="205" key="run.anything.popup/62.0.1538.900@62.0.1538.900" timestamp="1616071971638" />
+    <state x="1007" y="418" key="scopes" timestamp="1616683160006">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+    <state x="1007" y="418" key="scopes/62.0.1538.900@62.0.1538.900" timestamp="1616683160006" />
+    <state x="494" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1616138969206">
+      <screen x="62" y="0" width="1538" height="900" />
+    </state>
+
     <state x="982" y="255" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1538.900@62.0.1538.900" timestamp="1616065714413" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1618057608181">
       <screen x="0" y="0" width="1600" height="860" />
@@ -91,5 +197,6 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1618057675126" />
+    <state x="494" y="190" width="672" height="678" key="search.everywhere.popup/62.0.1538.900@62.0.1538.900" timestamp="1616138969206" />
   </component>
 </project>
