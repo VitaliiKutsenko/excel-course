@@ -2,7 +2,6 @@ import {capitalize} from '@core/utils';
 
 class Dom {
   constructor(selector) {
-    // #app
     this.$el = typeof selector === 'string' ?
         document.querySelector(selector) : selector
   }
@@ -38,6 +37,28 @@ class Dom {
       this.$el.appendChild(node)
     }
     return this
+  }
+
+  closest(selector) {
+    return $(this.$el.closest(selector))
+  }
+
+  getRecording() {
+    return this.$el.getBoundingClientRect()
+  }
+
+  findAll(selector) {
+    return this.$el.querySelectorAll(selector)
+  }
+
+  get data() {
+    return this.$el.dataset
+  }
+
+  css(style) {
+    Object.keys(style).forEach((key) => {
+      this.$el.style[key] = style[key]
+    })
   }
 }
 
