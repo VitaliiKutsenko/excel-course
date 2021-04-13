@@ -1,3 +1,4 @@
+
 import './scss/index.scss';
 import {Excel} from '@/components/excel/Excel';
 import {Toolbar} from '@/components/excel/toolbar/Toolbar';
@@ -9,3 +10,6 @@ const excel = new Excel('#app', {
   components: [Header, Toolbar, Formula, Table],
 })
 excel.render()
+import './module.js';
+import './scss/index.scss';
+console.log('working');

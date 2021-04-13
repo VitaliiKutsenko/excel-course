@@ -10,7 +10,9 @@ const isDev = !isProd;
 const filename = (ext) => isDev ? `bundle.${ext}` : `bundle.[hash].${ext}`;
 
 const jsLoaders = () => {
+
   const loaders = [
+  const loader = [
     {
       loader: 'babel-loader',
       options: {
@@ -22,6 +24,7 @@ const jsLoaders = () => {
   ];
   if (isDev) {
     loaders.push('eslint-loader');
+    loader.push('eslint-loader');
   }
 };
 module.exports = {
@@ -91,6 +94,7 @@ module.exports = {
             plugins: ['@babel/plugin-proposal-class-properties'],
           },
         },
+        use: jsLoaders(),
       },
     ],
   },
